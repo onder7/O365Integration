@@ -162,10 +162,14 @@ $reader->getInboxMessages([
 
 ---
 
+Teknik destek için onder7@gmail.com iletişime geçin.
+Önder AKÖZ / System & Network Specialist
 <div align="center">
-
 **..:: Onder Monder ::..**
-
 *Profesyonel IT Çözümleri*
-
 </div>
+---
+## 📱 İletişim ve Destek
+- 📧 E-posta: [onder7@gmail.com]
+- 🌐 GitHub: [github.com/onder7]
+- 📞 Destek: [+90 541 411 30 22]
